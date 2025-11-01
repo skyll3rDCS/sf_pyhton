@@ -1,0 +1,54 @@
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.feather
+*.pkl
+*.pickle
+
+# Large datasets (specific files)
+dst-3.0_16_1_hh_database.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Plotly temp files
+.plotly/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
